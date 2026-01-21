@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Output directories
+output/
+temp_workspace/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*_backup.py
+debug_*.py
+test_*.py
+check_*.py
+create_*.py
+
+# Documentation (keep README.md)
+开始使用.md
+服务化部署.md
+README_WEB.md
+
+# Zip files (except portfolio)
+*.zip
+!PaddleOCR_Portfolio.zip

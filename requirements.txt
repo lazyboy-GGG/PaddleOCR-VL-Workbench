@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+paddlepaddle
+paddleocr
+pymupdf
+openai
+reportlab
+Pillow
