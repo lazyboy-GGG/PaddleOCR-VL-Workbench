@@ -49,5 +49,3 @@ This project showcases the "AI Product Manager" mindset:
     *   Enter your API Key (or use the default).
     *   Download the translated Markdown or Reconstructed PDF.
 
----
-*Created by [Your Name] - AI Product Intern Candidate*
